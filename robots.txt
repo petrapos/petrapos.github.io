@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://petrapos.github.io/petrapos.petrapos
+Sitemap: https://petrapos.github.io/app/petrapos.petrapos
+Sitemap: https://petrapos.github.io/assets/petrapos.petrapos
+Sitemap: https://petrapos.github.io/css/petrapos.petrapos
+Sitemap: https://petrapos.github.io/includes/petrapos.petrapos
+Sitemap: https://petrapos.github.io/item/petrapos.petrapos
+Sitemap: https://petrapos.github.io/src/petrapos.petrapos
